@@ -1,0 +1,38 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.5" fill="#FFFFFF" fill-opacity="0.22"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="fadeMask">
+      <rect x="820" y="40" width="320" height="200" fill="url(#fade)"/>
+    </mask>
+  </defs>
+
+  <rect width="1200" height="280" fill="#0B0B0C"/>
+
+  <g stroke="#FFFFFF" stroke-opacity="0.045">
+    <line x1="0" y1="70" x2="1200" y2="70"/>
+    <line x1="0" y1="140" x2="1200" y2="140"/>
+    <line x1="0" y1="210" x2="1200" y2="210"/>
+    <line x1="300" y1="0" x2="300" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="900" y1="0" x2="900" y2="280"/>
+  </g>
+
+  <rect x="820" y="40" width="320" height="200" fill="url(#dots)" mask="url(#fadeMask)"/>
+
+  <text x="80" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="12" letter-spacing="6" fill="#E86A33">SELECTED WORK</text>
+
+  <text x="80" y="150" font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="58" font-weight="200" letter-spacing="10" fill="#FAFAFA">ABDULRAHMAN</text>
+
+  <rect x="82" y="176" width="64" height="2" fill="#E86A33"/>
+
+  <text x="80" y="216" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="15" letter-spacing="4" fill="#8B949E">AI ENGINEERING · AGENTIC SYSTEMS · AUTOMATION</text>
+</svg>
