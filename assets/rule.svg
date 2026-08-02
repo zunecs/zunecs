@@ -1,0 +1,13 @@
+<svg width="900" height="24" viewBox="0 0 900 24" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="12" x2="410" y2="12" stroke="#2E2A25" stroke-opacity="0.22"/>
+  <line x1="490" y1="12" x2="900" y2="12" stroke="#2E2A25" stroke-opacity="0.22"/>
+  <circle cx="430" cy="12" r="2.5" fill="#B4552D" opacity="0.5">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="12" r="3.5" fill="#B4552D">
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="470" cy="12" r="2.5" fill="#6F7F63" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+  </circle>
+</svg>
