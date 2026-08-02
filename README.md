@@ -9,11 +9,11 @@
 <h3 align="center">I · Provenance</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.Sc.%20ARTIFICIAL%20INTELLIGENCE-F2EBDD?style=for-the-badge&labelColor=B4552D&color=F2EBDD" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-F2EBDD?style=for-the-badge&labelColor=B4552D&color=F2EBDD" />
   <img src="https://img.shields.io/badge/IMAM%20ABDULRAHMAN%20BIN%20FAISAL%20UNIVERSITY-E8DFCC?style=for-the-badge&labelColor=E8DFCC&color=E8DFCC" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/COOP%20ENGINEERING%20INTERN-F2EBDD?style=for-the-badge&labelColor=6F7F63&color=F2EBDD" />
-  <img src="https://img.shields.io/badge/SAUDI%20ARAMCO%20·%20PLANNING%20%26%20PERFORMANCE-E8DFCC?style=for-the-badge&labelColor=E8DFCC&color=E8DFCC" />
+  <img src="https://img.shields.io/badge/COOP%20%20TRAINING-F2EBDD?style=for-the-badge&labelColor=6F7F63&color=F2EBDD" />
+  <img src="https://img.shields.io/badge/SAUDI%20ARAMCO%20·%20LAW%20%20SOLUTIONS-E8DFCC?style=for-the-badge&labelColor=E8DFCC&color=E8DFCC" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/rule.svg" width="76%" alt="" /></p>
