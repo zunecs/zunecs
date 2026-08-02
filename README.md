@@ -1,54 +1,69 @@
-<h1 align="center">Abdulrahman</h1>
-<p align="center">
-  AI Engineering student · Building agentic AI &amp; intelligent automation
-</p>
+<img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/header.svg" width="100%" alt="" />
 
----
+<br/>
 
-I build systems where an LLM does the judgment and automation does the work —
-document pipelines, email agents, and RPA robots that run end to end without a human in the loop.
+I build systems where a language model does the judgment and automation does the work.
+Document pipelines, email agents, RPA robots — designed to run end to end with no human in the loop.
 
-- 🏗️ Currently: COOP intern at **Saudi Aramco**, Planning &amp; Performance Management
-- 🎯 Focus: agentic AI engineering — LLM APIs, retrieval, tool use, workflow automation
-- 🌍 Based in the Eastern Province, Saudi Arabia · Arabic &amp; English
-- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN_URL) · YOUR_EMAIL
+Currently a COOP intern at **Saudi Aramco**, Planning &amp; Performance Management.
 
-### Tech
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+### Education
 
-### Selected work
+**B.Sc. Artificial Intelligence** — YOUR_UNIVERSITY
+`Machine Learning` · `Robotics` · `Information Security` · `Data Structures` · `Databases`
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[patent-retriever](https://github.com/zunecs/patent-retriever)** | Takes a patent number, retrieves the full document from Google Patents, and renders it as a `.docx` matching an exact legal-filing spec. Pluggable sources, CLI + web UI, 147 tests. | Python · Flask · Typer · python-docx |
-| **ai-email-assistant** | Reads incoming mail and attachments, extracts action items with an LLM, and creates calendar events and tasks. Semantic duplicate detection via embeddings, retry/backoff, weekly AI report. | UiPath · Gemini API · C# |
-| **contract-processing-rpa** | Folder-watching robot for contract intake: OCR, metadata extraction, business-rule flagging, and routing — no manual upload step. | UiPath · Python |
+<br/>
 
-### Stats
+### Work
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zunecs&show_icons=true&hide_border=true&theme=default" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunecs&layout=compact&hide_border=true&theme=default" />
-</p>
+<a href="https://github.com/zunecs/patent-retriever">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&theme=transparent&hide_border=true&title_color=E86A33&text_color=8B949E&icon_color=E86A33" />
+</a>
+<a href="https://github.com/zunecs/ai-email-assistant">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=ai-email-assistant&theme=transparent&hide_border=true&title_color=E86A33&text_color=8B949E&icon_color=E86A33" />
+</a>
 
-<!--
-**zunecs/zunecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/><br/>
 
-Here are some ideas to get you started:
+**Patent Retriever** — enter a patent number, get back a formatted legal filing.
+Scrapes and normalizes the full document, then renders a `.docx` that matches an exact
+attorney-filing spec down to the custom Word list numbering. Pluggable source layer,
+CLI and web interface, 147 tests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```mermaid
+flowchart LR
+    A["US20250097171A1"] --> B[Normalize]
+    B --> C{Source registry}
+    C -->|primary| D[Google Patents]
+    C -->|fallback| E[EPO OPS]
+    D --> F[PatentDocument]
+    E --> F
+    F --> G[Section mapper]
+    G --> H[.docx renderer]
+    G --> I[JSON renderer]
+```
+
+**AI Email Assistant** — an autonomous mail agent. Reads incoming email and its
+attachments together, extracts action items, deadlines and meetings, then writes
+Outlook tasks and calendar events. Uses vector embeddings and cosine similarity to
+suppress duplicate tasks, files attachments into a categorized library with
+AI-written summaries, and emails a generated weekly report.
+
+<br/>
+
+### Stack
+
+`Python` `Flask` `pytest` `SQL` `Git` `UiPath` `Gemini API` `Embeddings` `python-docx`
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=zunecs&show_icons=true&hide_border=true&bg_color=00000000&title_color=E86A33&text_color=8B949E&icon_color=E86A33" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=zunecs&show_icons=true&hide_border=true&bg_color=00000000&title_color=E86A33&text_color=57606A&icon_color=E86A33" />
+</picture>
+
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:YOUR_EMAIL">Email</a>
