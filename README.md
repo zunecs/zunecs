@@ -11,7 +11,7 @@ Currently a COOP intern at **Saudi Aramco**, Planning &amp; Performance Manageme
 
 ### Education
 
-**B.Sc. Artificial Intelligence** — YOUR_UNIVERSITY
+**B.Sc. Artificial Intelligence** — Imam Abdulrahman Bin Faisal Univerisy
 `Machine Learning` · `Robotics` · `Information Security` · `Data Structures` · `Databases`
 
 <br/>
@@ -21,7 +21,7 @@ Currently a COOP intern at **Saudi Aramco**, Planning &amp; Performance Manageme
 <a href="https://github.com/zunecs/patent-retriever">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&theme=transparent&hide_border=true&title_color=E86A33&text_color=8B949E&icon_color=E86A33" />
 </a>
-<a href="https://github.com/zunecs/ai-email-assistant">
+<a href="https://github.com/zunecs/AIEmailAssistant">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=ai-email-assistant&theme=transparent&hide_border=true&title_color=E86A33&text_color=8B949E&icon_color=E86A33" />
 </a>
 
@@ -66,4 +66,4 @@ AI-written summaries, and emails a generated weekly report.
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:YOUR_EMAIL">Email</a>
+<a href="www.linkedin.com/in/abdulrahman-alaamri">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:2240002427@iau.edu.sa">Email</a>
