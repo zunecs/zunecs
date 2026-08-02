@@ -30,10 +30,10 @@
 
 <p align="center">
 <a href="https://github.com/zunecs/patent-retriever">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
+  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
 </a>
 <a href="https://github.com/zunecs/AIEmailAssistant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=zunecs&repo=AIEmailAssistant&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
+  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=AIEmailAssistant&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
 </a>
 </p>
 
@@ -90,8 +90,8 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zunecs&show_icons=true&hide_border=true&border_radius=10&bg_color=F2EBDD&title_color=B4552D&text_color=6B6459&icon_color=6F7F63&ring_color=B4552D" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunecs&layout=compact&hide_border=true&border_radius=10&bg_color=F2EBDD&title_color=B4552D&text_color=6B6459&langs_count=6" />
+  <img height="150" src="https://github-readme-stats-nu-neon-76.vercel.app/api?username=zunecs&show_icons=true&hide_border=true&border_radius=10&bg_color=F2EBDD&title_color=B4552D&text_color=6B6459&icon_color=6F7F63&ring_color=B4552D" />
+  <img height="150" src="https://github-readme-stats-nu-neon-76.vercel.app/api/top-langs/?username=zunecs&layout=compact&hide_border=true&border_radius=10&bg_color=F2EBDD&title_color=B4552D&text_color=6B6459&langs_count=6" />
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/rule.svg" width="76%" alt="" /></p>
