@@ -30,10 +30,10 @@
 
 <p align="center">
 <a href="https://github.com/zunecs/patent-retriever">
-  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
+  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=patent-retriever&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63&cache_seconds=1800&v=2" />
 </a>
 <a href="https://github.com/zunecs/AIEmailAssistant">
-  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=AIEmailAssistant&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63" />
+  <img width="49%" src="https://github-readme-stats-nu-neon-76.vercel.app/api/pin/?username=zunecs&repo=AIEmailAssistant&bg_color=F2EBDD&hide_border=true&border_radius=10&title_color=B4552D&text_color=6B6459&icon_color=6F7F63&cache_seconds=1800&v=2" />
 </a>
 </p>
 
