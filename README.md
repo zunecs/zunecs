@@ -83,7 +83,7 @@ flowchart LR
 
 <p align="center"><img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/rule.svg" width="76%" alt="" /></p>
 
-<h3 align="center">IV · Instruments</h3>
+<!-- <h3 align="center">IV · Instruments</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,sqlite,git,github,docker,cs,vscode&theme=light" />
@@ -94,9 +94,9 @@ flowchart LR
   <img height="150" src="https://github-readme-stats-nu-neon-76.vercel.app/api/top-langs/?username=zunecs&layout=compact&hide_border=true&border_radius=10&bg_color=F2EBDD&title_color=B4552D&text_color=6B6459&langs_count=6" />
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/rule.svg" width="76%" alt="" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/zunecs/zunecs/main/assets/rule.svg" width="76%" alt="" /></p> -->
 
-<h3 align="center">V · Correspondence</h3>
+<h3 align="center">IV · Correspondence</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-alaamri">
